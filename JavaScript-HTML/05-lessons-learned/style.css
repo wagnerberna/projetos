@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(253 , 251 , 251);
+  font-family: cursive, sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  color: rgb(33 , 37 , 41);
+}
+
+#principal {
+  padding-top: 150px;
+}
+
+h1 , h2 {
+  color: green;
+  font-size: 20px;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0px;
+  background-color: black;
+  border: 5px solid gray;
+  padding: 10px;
+  display: inline-block;
+  width: 1000px;
+  z-index: 10;
+}
+
+#navegacao {
+  color: green;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+#minha_foto {
+  width: 500px;
+  margin: 25px;
+  border-radius: 100%;
+  border: 5px solid black;
+}
+
+.lado-esquerdo {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+}
+
+.lado-direito {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+}

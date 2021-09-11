@@ -1,0 +1,15 @@
+.app-header {
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  padding: 10px 30px;
+}
+
+.app-header a {
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}

@@ -1,0 +1,4 @@
+export const LOGIN = 'LOGIN';
+export const REQUEST_API = 'REQUEST_API';
+export const REQUEST_API_SUCESS = 'REQUEST_API_SUCESS';
+export const REQUEST_API_ERROR = 'REQUEST_API_ERROR';
