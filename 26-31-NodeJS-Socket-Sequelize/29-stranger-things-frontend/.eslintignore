@@ -1,5 +1,2 @@
-tests
-node_modules
-*test.js
-/services
-/data
+cypress
+src/serviceWorker.js
