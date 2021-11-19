@@ -10,4 +10,6 @@ def read(path):
         )
     return list_dict
 
-print(read("src/jobs.csv"))
+
+if __name__ == "__main__":
+    print(read("src/jobs.csv"))
